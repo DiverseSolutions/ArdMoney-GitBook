@@ -2,10 +2,9 @@
 
 ## Welcome
 
-* [Introduction](README.md)
-* [About ArdMoney](welcome/about-ardmoney/README.md)
-  * [Goal](welcome/about-ardmoney/goal.md)
-  * [Ecosystem](welcome/about-ardmoney/ecosystem.md)
+* [What is ArdMoney?](README.md)
+  * [Features](welcome/what-is-ardmoney/features.md)
+  * [Ecosystem](welcome/what-is-ardmoney/ecosystem.md)
 * [Getting Started](welcome/getting-started/README.md)
   * [Alpha ArdMoney](welcome/getting-started/alpha-ardmoney.md)
   * [Development ArdMoney](welcome/getting-started/development-ardmoney.md)
@@ -19,9 +18,9 @@
   * [Staying Safe](welcome/getting-started/staying-safe.md)
 * [AXXM](welcome/axxm.md)
 * [FAQ](welcome/faq.md)
-* [Social](welcome/social.md)
 * [ArdMoney Multichain](welcome/ardmoney-multichain.md)
 * [Supported Centralized Exchanges](welcome/supported-centralized-exchanges.md)
+* [🔍 Socials](welcome/socials.md)
 
 ## ArdMoney
 
@@ -29,7 +28,10 @@
 * [Alpha ArdMoney](ardmoney/alpha-ardmoney.md)
 * [Development ArdMoney](ardmoney/development-ardmoney.md)
 * [Tokenomics](ardmoney/tokenomics.md)
-* [DEX](ardmoney/dex.md)
+* [DEX](ardmoney/dex/README.md)
+  * [Swap Tokens](ardmoney/dex/swap-tokens.md)
+  * [Providing Liquidity](ardmoney/dex/providing-liquidity.md)
+  * [Liquidity Mining](ardmoney/dex/liquidity-mining.md)
 * [Farming](ardmoney/farming.md)
 * [Staking](ardmoney/staking.md)
 * [Lending / Borrowing](ardmoney/lending-borrowing.md)
