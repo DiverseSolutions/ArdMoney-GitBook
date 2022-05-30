@@ -1,2 +1,2 @@
-# Snapshot
+# 📸 Snapshot
 

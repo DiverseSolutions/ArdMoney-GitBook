@@ -1,2 +1,2 @@
-# Bounty
+# 💰 Bounty
 

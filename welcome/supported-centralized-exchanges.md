@@ -1,2 +1,2 @@
-# Supported Centralized Exchanges
+# 🤝 Supported Centralized Exchanges
 

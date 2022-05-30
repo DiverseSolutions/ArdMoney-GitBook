@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/1500x500.jpeg
 coverY: 0
 ---
 
-# Staking
+# 🔓 Staking
 
 To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!
 

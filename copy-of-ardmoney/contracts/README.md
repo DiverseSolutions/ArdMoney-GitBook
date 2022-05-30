@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/1500x500.jpeg
 coverY: 0
 ---
 
-# Contracts
+# 📜 Contracts
 
 To request time off, just fill in our simple form and we'll get it approved!
 

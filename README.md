@@ -4,7 +4,7 @@ cover: .gitbook/assets/1500x500.jpeg
 coverY: 0
 ---
 
-# What is ArdMoney?
+# 👋 What is ArdMoney?
 
 {% tabs %}
 {% tab title="Features" %}

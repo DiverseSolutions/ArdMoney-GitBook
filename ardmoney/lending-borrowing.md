@@ -1,2 +1,2 @@
-# Lending / Borrowing
+# 💸 Lending / Borrowing
 

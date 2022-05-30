@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/1500x500.jpeg
 coverY: 0
 ---
 
-# Learning Materials
+# 🏫 Learning Materials
 
 To request time off, just fill in our simple form and we'll get it approved!
 

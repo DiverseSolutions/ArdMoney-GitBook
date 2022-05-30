@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/1500x500.jpeg
 coverY: 0
 ---
 
-# Getting Started
+# ⚡ Getting Started
 
 {% hint style="info" %}
 **Good to know:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.

@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/1500x500.jpeg
 coverY: 0
 ---
 
-# Structure
+# 🏛 Structure
 
 ## Welcome aboard!
 
