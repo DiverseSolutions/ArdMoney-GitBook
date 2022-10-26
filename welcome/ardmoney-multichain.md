@@ -1,2 +1,0 @@
-# 🌉 ArdMoney Multichain
-
