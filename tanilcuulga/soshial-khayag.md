@@ -1,19 +1,23 @@
-# Сошиал хаяг
+---
+description: ARDM эзэмшигчидтэйгээ нэгдээрэй!
+---
 
-/add\_icon/ WEB: ardmoney.com
+# 💟 Сошиал хаяг
 
-/add\_icon/ GMAIL: [info@ardmoney.com](mailto:info@ardmoney.com)&#x20;
+[🌐](https://emojipedia.org/globe-with-meridians/)WEB: [ardmoney.com](https://ardmoney.com)
 
-/add\_icon/ Telegram: t.me/ArdMoney&#x20;
+[📮](https://emojipedia.org/postbox/)GMAIL: [info@ardmoney.com](mailto:info@ardmoney.com)&#x20;
 
-/add\_icon/ Facebook: facebook.com/ArdMoney&#x20;
+[💬](https://emojipedia.org/speech-balloon/)Telegram: [t.me/ArdMoney ](https://t.me/ArdMoney)
 
-/add\_icon/ Instagram: instagram.com/ard.money/&#x20;
+[📱](https://emojipedia.org/mobile-phone/)Facebook: [facebook.com/ArdMoney ](https://www.facebook.com/ardmoney)
 
-/add\_icon/ Medium: medium.com/@ardmoney
+[📱](https://emojipedia.org/mobile-phone/)Instagram:[ instagram.com/ard.money/](https://www.instagram.com/ard.money/)&#x20;
 
-/add\_icon/ Twitter: twitter.com/ard\_money
+[📋](https://emojipedia.org/clipboard/)Medium: [medium.com/@ardmoney](https://medium.com/@ardmoney)
 
-/add\_icon/ Discord: ???
+[🐕](https://emojipedia.org/dog/)Twitter: [twitter.com/ard\_money](https://twitter.com/ard\_money)
+
+[🫶](https://emojipedia.org/heart-hands/)Discord: [ArdMoney\_Discord](https://discord.com/channels/909400038667612170/922365947510153267)
 
 \
