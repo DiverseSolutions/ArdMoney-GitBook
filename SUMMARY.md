@@ -7,7 +7,7 @@
 * [🦊 Блокчэйн хэтэвч](tanilcuulga/blokchein-khetevch.md)
 * [🎨 Брэндинг, өнгө төрх](tanilcuulga/brending-ng-t-rkh.md)
 * [💟 Сошиал хаяг](tanilcuulga/soshial-khayag.md)
-* [💪 ArdMoney team](tanilcuulga/ardmoney-team.md)
+* [💪 ArdMoney team](tanilcuulga/t-sliin-bag.md)
 
 ## Ухаалаг Гэрээ <a href="#smart-contracts" id="smart-contracts"></a>
 
