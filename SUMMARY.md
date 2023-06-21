@@ -4,9 +4,10 @@
 
 * [👋 ArdMoney](README.md)
 * [🔶 Ерөнхий нэршилүүд](tanilcuulga/er-nkhii-nershil-d.md)
-* [🦊 Блокчэйн хэтэвч](tanilcuulga/blokchein-khetevch.md)
+* [🦊 Блокчэйн хэтэвч](tanilcuulga/blokchein-khetevch/README.md)
+  * [🎓 Метмаск тохиргоо, ашиглах заавар](tanilcuulga/blokchein-khetevch/metmask-tokhirgoo-ashiglakh-zaavar.md)
 * [🎨 Брэндинг, өнгө төрх](tanilcuulga/brending-ng-t-rkh.md)
-* [💟 Сошиал хаяг](tanilcuulga/soshial-khayag.md)
+* [💜 Сошиал хаяг](tanilcuulga/soshial-khayag.md)
 * [💪 ArdMoney team](tanilcuulga/t-sliin-bag.md)
 
 ## Ухаалаг Гэрээ <a href="#smart-contracts" id="smart-contracts"></a>

@@ -2,7 +2,7 @@
 description: ARDM эзэмшигчидтэйгээ нэгдээрэй!
 ---
 
-# 💟 Сошиал хаяг
+# 💜 Сошиал хаяг
 
 [🌐](https://emojipedia.org/globe-with-meridians/)WEB: [ardmoney.com](https://ardmoney.com)
 
